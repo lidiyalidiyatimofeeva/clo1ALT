@@ -12,7 +12,7 @@ CheckHeadlessBrowser=on
 CheckYandexModerator=on
 CheckYandexBot=on
 CheckIpBlacklist=on
-CheckDevTools=on
+CheckDevTools=off
 CheckMouseMovement=on
 CheckVisitFrequency=on
 
